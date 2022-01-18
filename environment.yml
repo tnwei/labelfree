@@ -1,0 +1,13 @@
+name: labelfree
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy
+  - pandas
+  - numpy
+  - matplotlib
+  - pytorch
+  - ipykernel
+  - einops
+prefix: /home/tnwei/miniconda3/labelfree
